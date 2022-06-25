@@ -10,11 +10,11 @@ Hitung jarak dari data baru ke masing-masing data point di dataset.
 Ambil sejumlah K data dengan jarak terdekat, kemudian tentukan kelas dari data baru tersebut.
 
 
-##Langkah yang harus dilakukan terdiri dari:
-###Input Dataset, 
-###Membagi Dataset ke Data Training dan Data Testing, 
-###Scaling Data, 
-###Memanggil Function KNN, 
-###Menentukan Prediksi, 
-###Evaluasi dan Validasi dan 
-###Visualisasi Data (Grafik)
+## Langkah yang harus dilakukan terdiri dari:
+### Input Dataset, 
+### Membagi Dataset ke Data Training dan Data Testing, 
+### Scaling Data, 
+### Memanggil Function KNN, 
+### Menentukan Prediksi, 
+### Evaluasi dan Validasi dan 
+### Visualisasi Data (Grafik)
